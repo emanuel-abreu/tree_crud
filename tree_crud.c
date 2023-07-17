@@ -153,14 +153,11 @@ int main(){
     pre(raiz);
     printf("\n");
 
-
     update_arvore(raiz, 22, 9);
-    printf("Árvore após atualizar o valor 20 para 9: ");
+    printf("Árvore após atualizar o valor 22 para 9: ");
     pre(raiz);
     printf("\n");
 
 
     return 0;
 }
-
-
